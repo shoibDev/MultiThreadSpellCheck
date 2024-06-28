@@ -41,3 +41,12 @@ MultiThreadSpellCheck is a high-performance spell checking program built in C, u
 - Total number of files processed.
 - Total number of spelling errors encountered.
 - The three most common misspellings across all tasks.
+
+## Visuals
+
+![image](https://github.com/shoibDev/MultiThreadSpellCheck/assets/86535871/e6e0c3fd-6815-48ba-b865-11dc44616923)
+
+![image](https://github.com/shoibDev/MultiThreadSpellCheck/assets/86535871/0db5b5c1-c271-44b6-98e8-c102dfe3b1b9)
+
+
+
