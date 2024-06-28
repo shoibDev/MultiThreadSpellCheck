@@ -1,0 +1,11 @@
+Hello, this is a test file for spellcheking functionality. 
+Here are a few commmon misspellings that appear multiple times:
+
+Commmon is spelled wrong and should appear three times as common.
+Spellcheking is also incorrect and appears twice as spellcheking.
+Occurence is another frequently mistyped word, which appears twice as occurence.
+
+Let's summarize:
+Commmon three times
+Spellcheking two times
+Occurence two times
